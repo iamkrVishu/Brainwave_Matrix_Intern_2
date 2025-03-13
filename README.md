@@ -77,9 +77,9 @@ python gui/main_window.py
 ---
 
 ## 📸 **Screenshots**
-![Dashboard](img/dashboard.png)  
-![Product Management](img/products.png)  
-![Sales History](img/sales.png)  
+![Dashboard](img/Dashboard.png)  
+![Product Management](img/Reports.png)  
+![Sales History](img/User_Admin.png)  
 
 ---
 
