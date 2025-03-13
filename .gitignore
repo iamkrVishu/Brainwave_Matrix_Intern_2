@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore database file
+inventory.db
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
