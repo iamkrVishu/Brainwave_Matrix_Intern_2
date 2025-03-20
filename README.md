@@ -1,4 +1,3 @@
-﻿# Brainwave_Matrix_Intern_2
 ### 📦 **Inventory Management System**  
 This project is part of my learning journey in Python development, where I am building a **fully functional Inventory Management System** using **Python (PyQt5) and SQLite**.  
 
